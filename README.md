@@ -3,16 +3,13 @@
 
 <br/>
 
-### Sou um Desenvolvedor de Software Pleno, com foco em Back-end.
+### Sou um <b> Desenvolvedor de Software Pleno </b> com 3 anos de experiência na área, meu foco principal é o back-end, mas tambem exerço funções no front-end no meu dia-a-dia.
 
 <br/>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabio-fellipe-ferreira-b81099217/)
 
 <br/>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiofellipecs&layout=donut&theme=dracula)
-
 
 ## Tecnologias que utilizo:
 
@@ -28,3 +25,7 @@
     <img align="center" alt="C#" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 
 </div>  
+
+<br/> <br/> <br/>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiofellipecs&layout=donut&theme=dracula)
