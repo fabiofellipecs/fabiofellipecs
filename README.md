@@ -3,7 +3,7 @@
 
 <br/>
 
-### Sou um <b> Desenvolvedor de Software Pleno </b> com 3 anos de experiência na área, meu foco principal é o back-end, mas tambem exerço funções no front-end no meu dia-a-dia.
+### Sou um <b> Desenvolvedor de Software Pleno </b> com 3 anos de experiência na área.
 
 <br/>
 
